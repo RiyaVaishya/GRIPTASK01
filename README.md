@@ -36,11 +36,11 @@ To run this analysis, you'll need:
 
 5)Visualize the Results:
 
-###Plot the data points.
+> Plot the data points.
 
-###Plot the regression line.
+> Plot the regression line.
 
-###Plot the predicted score for new study hours.
+> Plot the predicted score for new study hours.
 
 6)Add Labels and Legend: Annotate the plot with appropriate labels and legends.
 
