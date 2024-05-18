@@ -1,10 +1,10 @@
-#Task-01
+## Task-01
 
-#Linear Regression Analysis of Study Hours vs Scores
+## Linear Regression Analysis of Study Hours vs Scores
 
 This repository contains a simple linear regression analysis to predict student scores based on study hours. The analysis is performed using Python in a Jupyter Notebook.
 
-#Dataset:-
+## Dataset:-
 
 The dataset used in this analysis consists of two columns:
 
@@ -14,9 +14,9 @@ Scores: The corresponding scores obtained by students.
 
 The dataset is sourced from this URL= "http://bit.ly/w-data"
 
-#Setup:-
+## Setup:-
 
-Prerequisites-
+### Prerequisites-
 
 To run this analysis, you'll need:
 
@@ -24,7 +24,7 @@ To run this analysis, you'll need:
 
 2)Jupyter Notebook 
 
-#Analysis Steps:-
+## Analysis Steps:-
 
 1)Load the Data: Read the dataset from the provided URL using pandas.
 
@@ -36,21 +36,21 @@ To run this analysis, you'll need:
 
 5)Visualize the Results:
 
->Plot the data points.
+###Plot the data points.
 
->Plot the regression line.
+###Plot the regression line.
 
->Plot the predicted score for new study hours.
+###Plot the predicted score for new study hours.
 
 6)Add Labels and Legend: Annotate the plot with appropriate labels and legends.
 
-#Conclusion and Summary:-
+## Conclusion and Summary:-
 This project demonstrates the application of simple linear regression to predict student scores based on study hours. The key steps include data loading, model training, making predictions, and visualizing the results. The predicted score for a student studying 9.25 hours per day is shown on the plot, along with the regression line and the original data points.
 
 By following this analysis, we can conclude that there is a positive linear relationship between the number of hours studied and the scores obtained by students. This relationship can be effectively modeled using simple linear regression.
 
-#License:-
+## License:-
 
 This project is licensed under the MIT License. See the 'LICENSE' file for more details.
 
-#My Linkedin Profile:- www.linkedin.com/in/riya-vaishya-537731278
+## My Linkedin Profile:- www.linkedin.com/in/riya-vaishya-537731278
